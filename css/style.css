@@ -358,7 +358,7 @@
      
         
             .home-hero__cta {
-                margin-top: 0rem;
+                margin-top: 1rem !important;
                 text-align: center;
             }
             .home-hero__mouse-scroll-cont{
