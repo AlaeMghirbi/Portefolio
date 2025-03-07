@@ -75,7 +75,7 @@
         }
         
         .heading-primary {
-            font-size: 3.5rem;
+            font-size: 6rem;
             text-transform: uppercase;
             letter-spacing: 3px;
             text-align: center;
@@ -85,7 +85,7 @@
         
         @media only screen and (max-width: 37.5em) {
             .heading-primary {
-                font-size: 4.5rem
+                font-size:3rem
             }
         }
         
