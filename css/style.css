@@ -251,7 +251,7 @@
         }
         
         .sec-pad {
-            padding: 12rem 0
+            padding: 6rem 0
         }
         
         @media only screen and (max-width: 56.25em) {
@@ -536,9 +536,9 @@
         }
         
         .projects__row-content {
-            padding: 2rem 0;
+            padding: 0rem 0;
             display: flex;
-            justify-content: center;
+            /* justify-content: center; */
             flex-direction: column;
             align-items: flex-start
         }
